@@ -9,7 +9,7 @@ Presenta una estructura multipagina sobre servicios y soluciones en impresión 3
 ## 🌐 Enlace al sitio
 
 🔗 **GitHub Pages**:  
-[https://<usuario>.github.io/codigo-3d-studio](https://<usuario>.github.io/codigo-3d-studio)
+https://github.com/Maxi-17/TP-Final-Disenio-Web.git
 
 
 ---
@@ -18,7 +18,7 @@ Presenta una estructura multipagina sobre servicios y soluciones en impresión 3
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/Maxi-17/TP-Final-Dise-o-Web.git
+   git clone https://maxi-17.github.io/TP-Final-Disenio-Web/
 
 ---
 
